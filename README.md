@@ -1,4 +1,4 @@
-Hi there! 👋 I'm [Your Name], a [Your Title/Role] based in [Your Location]. I'm passionate about [Your Interests/Passions in Coding/Development].
+Hi there! 👋 I'm [Anthony], a [27 YO boy] based in [Fiumicino/Rome]. I'm passionate about [Coding].
 
 About Me:
 💻 I specialize in [Front/Back-end; JavaScript; PHP].
